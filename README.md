@@ -1,2 +1,2 @@
 # action_sudoku
-This is one of my C++ programming projects I've done for one of my courses (CSE 335) at Michigan State University.
+you might have to download Microsoft Visual Studio 2022 and install the C++ environment.
